@@ -10,7 +10,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/thegigi/DogRobot_copy.git:DogRobot_copy.xml": [
+      "https://github.com/thegigi/DogRobot_copy.git",
+      "DogRobot_copy.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.13.0",
